@@ -1,0 +1,16 @@
+---
+title: Quarto example
+---
+
+This is some text
+
+
+```{r}
+print("Hello World")
+```
+
+
+```{python}
+print("Hello from Python")
+
+```
